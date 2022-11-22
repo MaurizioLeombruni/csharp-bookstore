@@ -1,0 +1,15 @@
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore\bin\Debug\net6.0\csharp-bookstore.exe
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore\bin\Debug\net6.0\csharp-bookstore.deps.json
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore\bin\Debug\net6.0\csharp-bookstore.runtimeconfig.json
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore\bin\Debug\net6.0\csharp-bookstore.dll
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore\bin\Debug\net6.0\csharp-bookstore.pdb
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore\obj\Debug\net6.0\csharp-bookstore.csproj.AssemblyReference.cache
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore\obj\Debug\net6.0\csharp-bookstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore\obj\Debug\net6.0\csharp-bookstore.AssemblyInfoInputs.cache
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore\obj\Debug\net6.0\csharp-bookstore.AssemblyInfo.cs
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore\obj\Debug\net6.0\csharp-bookstore.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore\obj\Debug\net6.0\csharp-bookstore.dll
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore\obj\Debug\net6.0\refint\csharp-bookstore.dll
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore\obj\Debug\net6.0\csharp-bookstore.pdb
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore\obj\Debug\net6.0\csharp-bookstore.genruntimeconfig.cache
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore\obj\Debug\net6.0\ref\csharp-bookstore.dll
