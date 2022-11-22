@@ -1,0 +1,15 @@
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore-bonus\bin\Debug\net6.0\csharp-bookstore-bonus.exe
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore-bonus\bin\Debug\net6.0\csharp-bookstore-bonus.deps.json
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore-bonus\bin\Debug\net6.0\csharp-bookstore-bonus.runtimeconfig.json
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore-bonus\bin\Debug\net6.0\csharp-bookstore-bonus.dll
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore-bonus\bin\Debug\net6.0\csharp-bookstore-bonus.pdb
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore-bonus\obj\Debug\net6.0\csharp-bookstore-bonus.csproj.AssemblyReference.cache
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore-bonus\obj\Debug\net6.0\csharp-bookstore-bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore-bonus\obj\Debug\net6.0\csharp-bookstore-bonus.AssemblyInfoInputs.cache
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore-bonus\obj\Debug\net6.0\csharp-bookstore-bonus.AssemblyInfo.cs
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore-bonus\obj\Debug\net6.0\csharp-bookstore-bonus.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore-bonus\obj\Debug\net6.0\csharp-bookstore-bonus.dll
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore-bonus\obj\Debug\net6.0\refint\csharp-bookstore-bonus.dll
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore-bonus\obj\Debug\net6.0\csharp-bookstore-bonus.pdb
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore-bonus\obj\Debug\net6.0\csharp-bookstore-bonus.genruntimeconfig.cache
+C:\Users\mauri\Downloads\NotOneDrive\EserciziGIT\csharp-bookstore\csharp-bookstore\csharp-bookstore-bonus\obj\Debug\net6.0\ref\csharp-bookstore-bonus.dll

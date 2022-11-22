@@ -17,7 +17,7 @@ bool isWithCover = true;
 
 //Stampiamo le informazioni.
 
-Console.WriteLine("--- Il libro di oggi: " + bookTitle + ", di" + bookAuthor);
+Console.WriteLine("--- Il libro di oggi: " + bookTitle + ", di " + bookAuthor);
 Console.WriteLine("ISBN: " + bookISBN);
 Console.WriteLine("Numero di pagine: " + bookPages);
 Console.WriteLine("Peso del libro: " + bookWeight + " kg");
